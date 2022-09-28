@@ -1,7 +1,4 @@
-{
- [
-    
-    { 
+[   { 
         
         "number": "Conto 000045478231",
         "holder": "CACCAMO MARTINA",
@@ -27,5 +24,4 @@
         
     }
     
-    ]
-}
+] 
